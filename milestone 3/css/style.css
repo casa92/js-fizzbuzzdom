@@ -15,16 +15,15 @@ body {
 }
 .container_box {
     margin: auto;
-    width: 80%;
+    width: 70%;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
 
 }
 .box {
-    width: calc(( 80vw / 7) - 32px);
-    height: calc(( 80vw / 7) - 32px);
-    background-color: blue;
+    width: calc(( 70vw / 7) - 32px);
+    height: calc(( 70vw / 7) - 32px);
     margin: 16px;
     background-color: #1389b2;
     font-size: 25px;
